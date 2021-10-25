@@ -1,0 +1,23 @@
+:root{
+  --first-color:#8801A5;
+  --second-color:#01A8EE;
+  --third-color:#fff;
+}
+
+  .texto_morado{
+  color: var(--first-color);
+
+  }
+  .texto_blanco{
+  color: var(--third-color);
+  }
+  .boton-morado{
+  background-color: var(--first-color);
+  border: 1px solid var(--first-color);
+  }
+  .texto_azul{
+  color: var(--second-color);
+  }
+  .boton_azul{
+  background-color: var(--second-color);
+  }
